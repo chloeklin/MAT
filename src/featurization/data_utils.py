@@ -24,7 +24,7 @@ IntTensor = torch.cuda.IntTensor if use_cuda else torch.IntTensor
 DoubleTensor = torch.cuda.DoubleTensor if use_cuda else torch.DoubleTensor
 
 
-def load_data_from_df(dataset_path, add_dummy_node=True, one_hot_formal_charge=False, use_data_saving=True):
+def load_data_from_df(dataset_path, qm9_idx=None, add_dummy_node=True, one_hot_formal_charge=False, use_data_saving=True):
     """Load and featurize data stored in a CSV file.
 
     Args:
@@ -48,9 +48,12 @@ def load_data_from_df(dataset_path, add_dummy_node=True, one_hot_formal_charge=F
         return x_all, y_all
 
     data_df = pd.read_csv(dataset_path)
-
-    data_x = data_df.iloc[:, 0].values
-    data_y = data_df.iloc[:, 1].values
+    if qm9_idx is None:
+        data_x = data_df.iloc[:, 0].values
+        data_y = data_df.iloc[:, 1].values
+    else:
+        data_x = data_df.iloc[:, 1].values
+        data_y = data_df.iloc[:, qm9_idx].values
 
     if data_y.dtype == np.float64:
         data_y = data_y.astype(np.float32)
