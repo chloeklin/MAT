@@ -18,4 +18,4 @@ source mat-venv/bin/activate
 cd MAT/src/
 
 # Run the Python script with the current parameters
-python3 finetune.py --target u0
+python3 finetune.py --target u0 --model "Molecule Attention Transformer"

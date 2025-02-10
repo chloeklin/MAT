@@ -17,7 +17,7 @@ def main():
     qm9_target_to_idx = {
         'mu': 6, 'alpha': 7, 'homo': 8, 'lumo': 9, 'gap': 10, 'r2': 11,
         'zpve': 12, 'cv': 17,
-        'u0': 18, 'u': 19, 'h': 20, 'g': 21
+        'u0_atom': 18, 'u298_atom': 19, 'h298_atom': 20, 'g298_atom': 21
     }
 
 

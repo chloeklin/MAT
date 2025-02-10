@@ -1,3 +1,5 @@
+src/best_finetuned_model.pt
+src/best_finetuned_model.pt
 **/.ipynb_checkpoints/
 **/__pycache__/
 pretrained_weights.pt

@@ -1,0 +1,253 @@
+Epoch 1/100:
+Train Loss: 1385.102555 | Val Loss: 921.222169
+Best model saved!
+Epoch 2/100:
+Train Loss: 414.215433 | Val Loss: 132.767048
+Best model saved!
+Epoch 3/100:
+Train Loss: 77.375406 | Val Loss: 75.044150
+Best model saved!
+Epoch 4/100:
+Train Loss: 56.452207 | Val Loss: 53.480722
+Best model saved!
+Epoch 5/100:
+Train Loss: 52.182860 | Val Loss: 54.058316
+No improvement for 1/10 epochs
+Epoch 6/100:
+Train Loss: 48.734641 | Val Loss: 49.530107
+Best model saved!
+Epoch 7/100:
+Train Loss: 45.959487 | Val Loss: 45.729628
+Best model saved!
+Epoch 8/100:
+Train Loss: 44.759815 | Val Loss: 49.304698
+No improvement for 1/10 epochs
+Epoch 9/100:
+Train Loss: 44.055259 | Val Loss: 44.617699
+Best model saved!
+Epoch 10/100:
+Train Loss: 43.354060 | Val Loss: 46.567684
+No improvement for 1/10 epochs
+Epoch 11/100:
+Train Loss: 43.346057 | Val Loss: 47.316167
+No improvement for 2/10 epochs
+Epoch 12/100:
+Train Loss: 42.092623 | Val Loss: 43.681741
+Best model saved!
+Epoch 13/100:
+Train Loss: 41.794763 | Val Loss: 42.524529
+Best model saved!
+Epoch 14/100:
+Train Loss: 41.737041 | Val Loss: 43.250666
+No improvement for 1/10 epochs
+Epoch 15/100:
+Train Loss: 41.405889 | Val Loss: 42.073095
+Best model saved!
+Epoch 16/100:
+Train Loss: 40.871194 | Val Loss: 41.314577
+Best model saved!
+Epoch 17/100:
+Train Loss: 40.637784 | Val Loss: 41.969435
+No improvement for 1/10 epochs
+Epoch 18/100:
+Train Loss: 40.330729 | Val Loss: 40.608228
+Best model saved!
+Epoch 19/100:
+Train Loss: 39.887138 | Val Loss: 41.264749
+No improvement for 1/10 epochs
+Epoch 20/100:
+Train Loss: 39.632151 | Val Loss: 40.504043
+Best model saved!
+Epoch 21/100:
+Train Loss: 39.440885 | Val Loss: 41.047210
+No improvement for 1/10 epochs
+Epoch 22/100:
+Train Loss: 39.209136 | Val Loss: 39.832852
+Best model saved!
+Epoch 23/100:
+Train Loss: 38.860176 | Val Loss: 45.375277
+No improvement for 1/10 epochs
+Epoch 24/100:
+Train Loss: 38.981400 | Val Loss: 39.892621
+No improvement for 2/10 epochs
+Epoch 25/100:
+Train Loss: 38.625786 | Val Loss: 43.036660
+No improvement for 3/10 epochs
+Epoch 26/100:
+Train Loss: 38.410310 | Val Loss: 40.535996
+No improvement for 4/10 epochs
+Epoch 27/100:
+Train Loss: 38.208827 | Val Loss: 39.108650
+Best model saved!
+Epoch 28/100:
+Train Loss: 37.770117 | Val Loss: 39.556815
+No improvement for 1/10 epochs
+Epoch 29/100:
+Train Loss: 37.495933 | Val Loss: 37.997396
+Best model saved!
+Epoch 30/100:
+Train Loss: 37.509991 | Val Loss: 42.954665
+No improvement for 1/10 epochs
+Epoch 31/100:
+Train Loss: 37.324800 | Val Loss: 40.725964
+No improvement for 2/10 epochs
+Epoch 32/100:
+Train Loss: 37.297598 | Val Loss: 39.228703
+No improvement for 3/10 epochs
+Epoch 33/100:
+Train Loss: 37.148369 | Val Loss: 37.686166
+Best model saved!
+Epoch 34/100:
+Train Loss: 36.783903 | Val Loss: 37.299639
+Best model saved!
+Epoch 35/100:
+Train Loss: 36.447768 | Val Loss: 37.738990
+No improvement for 1/10 epochs
+Epoch 36/100:
+Train Loss: 36.780473 | Val Loss: 38.349096
+No improvement for 2/10 epochs
+Epoch 37/100:
+Train Loss: 35.977516 | Val Loss: 37.337295
+No improvement for 3/10 epochs
+Epoch 38/100:
+Train Loss: 35.876351 | Val Loss: 38.101495
+No improvement for 4/10 epochs
+Epoch 39/100:
+Train Loss: 35.472107 | Val Loss: 35.020604
+Best model saved!
+Epoch 40/100:
+Train Loss: 35.570683 | Val Loss: 35.979238
+No improvement for 1/10 epochs
+Epoch 41/100:
+Train Loss: 36.670768 | Val Loss: 35.972743
+No improvement for 2/10 epochs
+Epoch 42/100:
+Train Loss: 35.831793 | Val Loss: 35.219268
+No improvement for 3/10 epochs
+Epoch 43/100:
+Train Loss: 35.652067 | Val Loss: 37.119626
+No improvement for 4/10 epochs
+Epoch 44/100:
+Train Loss: 35.809404 | Val Loss: 35.603510
+No improvement for 5/10 epochs
+Epoch 45/100:
+Train Loss: 35.730197 | Val Loss: 40.334755
+No improvement for 6/10 epochs
+Epoch 46/100:
+Train Loss: 36.245038 | Val Loss: 35.207487
+No improvement for 7/10 epochs
+Epoch 47/100:
+Train Loss: 35.243565 | Val Loss: 34.447565
+Best model saved!
+Epoch 48/100:
+Train Loss: 35.931241 | Val Loss: 41.768398
+No improvement for 1/10 epochs
+Epoch 49/100:
+Train Loss: 35.936579 | Val Loss: 38.062177
+No improvement for 2/10 epochs
+Epoch 50/100:
+Train Loss: 36.301977 | Val Loss: 35.909727
+No improvement for 3/10 epochs
+Epoch 51/100:
+Train Loss: 34.736852 | Val Loss: 34.747098
+No improvement for 4/10 epochs
+Epoch 52/100:
+Train Loss: 34.961292 | Val Loss: 34.450922
+No improvement for 5/10 epochs
+Epoch 53/100:
+Train Loss: 35.589422 | Val Loss: 35.302525
+No improvement for 6/10 epochs
+Epoch 54/100:
+Train Loss: 34.580764 | Val Loss: 34.399318
+Best model saved!
+Epoch 55/100:
+Train Loss: 34.018190 | Val Loss: 33.948527
+Best model saved!
+Epoch 56/100:
+Train Loss: 33.153123 | Val Loss: 35.580962
+No improvement for 1/10 epochs
+Epoch 57/100:
+Train Loss: 35.201349 | Val Loss: 40.738785
+No improvement for 2/10 epochs
+Epoch 58/100:
+Train Loss: 35.262545 | Val Loss: 33.153900
+Best model saved!
+Epoch 59/100:
+Train Loss: 33.790064 | Val Loss: 32.840034
+Best model saved!
+Epoch 60/100:
+Train Loss: 33.082401 | Val Loss: 36.356679
+No improvement for 1/10 epochs
+Epoch 61/100:
+Train Loss: 33.283654 | Val Loss: 32.631854
+Best model saved!
+Epoch 62/100:
+Train Loss: 32.045256 | Val Loss: 31.772423
+Best model saved!
+Epoch 63/100:
+Train Loss: 35.395884 | Val Loss: 37.728714
+No improvement for 1/10 epochs
+Epoch 64/100:
+Train Loss: 33.890752 | Val Loss: 39.492112
+No improvement for 2/10 epochs
+Epoch 65/100:
+Train Loss: 33.743467 | Val Loss: 39.545013
+No improvement for 3/10 epochs
+Epoch 66/100:
+Train Loss: 32.592880 | Val Loss: 34.763909
+No improvement for 4/10 epochs
+Epoch 67/100:
+Train Loss: 33.712206 | Val Loss: 32.679130
+No improvement for 5/10 epochs
+Epoch 68/100:
+Train Loss: 31.763338 | Val Loss: 29.154725
+Best model saved!
+Epoch 69/100:
+Train Loss: 32.924856 | Val Loss: 31.876193
+No improvement for 1/10 epochs
+Epoch 70/100:
+Train Loss: 31.869740 | Val Loss: 36.580728
+No improvement for 2/10 epochs
+Epoch 71/100:
+Train Loss: 31.892052 | Val Loss: 29.756702
+No improvement for 3/10 epochs
+Epoch 72/100:
+Train Loss: 31.520584 | Val Loss: 32.200497
+No improvement for 4/10 epochs
+Epoch 73/100:
+Train Loss: 30.853601 | Val Loss: 29.423899
+No improvement for 5/10 epochs
+Epoch 74/100:
+Train Loss: 31.721492 | Val Loss: 34.938694
+No improvement for 6/10 epochs
+Epoch 75/100:
+Train Loss: 34.626637 | Val Loss: 34.097242
+No improvement for 7/10 epochs
+Epoch 76/100:
+Train Loss: 31.405005 | Val Loss: 35.413097
+No improvement for 8/10 epochs
+Epoch 77/100:
+Train Loss: 32.520073 | Val Loss: 39.644635
+No improvement for 9/10 epochs
+Epoch 78/100:
+Train Loss: 32.005380 | Val Loss: 30.945519
+No improvement for 10/10 epochs
+Early stopping triggered at epoch 78
+
+Evaluating on Test Set...
+Test MAE: 30.314255
+
+======================================================================================
+                  Resource Usage on 2025-02-07 15:41:36:
+   Job Id:             134330947.gadi-pbs
+   Project:            um09
+   Exit Status:        1
+   Service Units:      2543.00
+   NCPUs Requested:    48                     NCPUs Used: 48              
+                                           CPU Time Used: 17:38:12        
+   Memory Requested:   128.0GB               Memory Used: 4.03GB          
+   NGPUs Requested:    4                 GPU Utilisation: 0%              
+                                         GPU Memory Used: 0B              
+   Walltime requested: 48:00:00            Walltime Used: 17:39:35        
+   JobFS requested:    100.0GB                JobFS used: 0B              
+======================================================================================
